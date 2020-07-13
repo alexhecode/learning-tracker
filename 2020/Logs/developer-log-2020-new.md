@@ -4,6 +4,17 @@
 
 ---
 
+## July 13
+
+Things I learnt today:
+
+- What is a REST API?
+- Why do we need a REST API?
+
+I am planning to learn how to build a RESTful API with Node.js. I want to implement that knowledge for my side business project.
+
+---
+
 ### July 12
 
 I am looking to restart this developer log as I have not made an entry in almost 2 months (I know, I'm sorry!! 😅 ). You can find my previous entries in the [Archive](../Archive/archive-2020.md) folder.
