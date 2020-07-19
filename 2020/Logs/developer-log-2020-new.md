@@ -4,6 +4,12 @@
 
 ---
 
+## July 19
+
+Today I learnt some Node.js basics. I am going through a course on Codecademy. Pretty cool to see JavaScript out of the browser.
+
+---
+
 ## July 17
 
 Today I spent some time looking through localisation (l18n) solutions for my side gig. I plan to use the l18next framework. I also had a look at some micro JS libraries. It's pretty amazing to see powerful libraries that are really small in file size.
