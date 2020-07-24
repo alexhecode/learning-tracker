@@ -4,6 +4,12 @@
 
 ---
 
+## July 24
+
+I have been building a rock-paper-scissors game. I have gotten the core game logic down. I plan to add multiplayer functionality in future with Sockets io.
+
+---
+
 ## July 19
 
 Today I learnt some Node.js basics. I am going through a course on Codecademy. Pretty cool to see JavaScript out of the browser.
