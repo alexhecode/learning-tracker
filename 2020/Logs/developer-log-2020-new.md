@@ -4,6 +4,16 @@
 
 ---
 
+## September 2
+
+Still trying to configure Neovim to my liking.
+
+It's not an easy task as there is so much that can be customised!
+
+I want to add a lot of the features I like from VSCode into my Vim experience.
+
+---
+
 ## August 31
 
 I am trying to learn Vim! Nothing against VSCode, but I couldn't help but be drawn to Vim.
